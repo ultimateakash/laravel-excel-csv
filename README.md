@@ -1,4 +1,4 @@
-# Laravel Import Export In Excel and CSV 
+# Import Export Excel/CSV In Laravel 
 <p align="center"><img src="https://github.com/ultimateakash/laravel-excel-csv/blob/master/public/images/laravel-excel-csv.png"></p> 
 
 1. Copy `.env.example` to `.env`
